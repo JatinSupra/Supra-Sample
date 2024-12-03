@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-message_board_addr = "0x1c5acf62be507c27a7788a661b546224d806246765ff2695efece60194c6df05"
+message_board_addr = "0xb76a2b6e08b72c63bfbcd72646f62c8757698113bb9d0b24729f42774521e014"
 
 [dependencies.SupraFramework]
 git = "https://github.com/Entropy-Foundation/aptos-core.git"
